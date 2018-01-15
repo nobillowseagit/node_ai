@@ -57,6 +57,8 @@ arr = ["人","自行车","汽车","摩托车","飞机","公共汽车","火车","
 
 
 
+print('program start');
+
 #PATH_TEST_IMAGE = sys.argv[1]
 PATH_TO_CKPT = 'D:\\tensorflow\\ssd_mobilenet_v1_coco_11_06_2017\\frozen_inference_graph.pb'
 PATH_TO_LABELS = 'D:\\tensorflow\\models\\research\\object_detection\\data\\mscoco_label_map.pbtxt'
